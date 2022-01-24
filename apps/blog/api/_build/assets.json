@@ -1,0 +1,32 @@
+{
+  "version": "e432ba71",
+  "entry": {
+    "module": "/build/entry.client-3YU4QOAX.js",
+    "imports": [
+      "/build/_shared/chunk-FBIZ4OXO.js",
+      "/build/_shared/chunk-ZRUSY6UF.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-54JJNI3M.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/index": {
+      "id": "routes/index",
+      "parentId": "root",
+      "index": true,
+      "module": "/build/routes/index-D43GYRAT.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    }
+  },
+  "url": "/build/manifest-E432BA71.js"
+}
